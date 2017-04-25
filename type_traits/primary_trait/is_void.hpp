@@ -1,8 +1,7 @@
 #ifndef _H_TMP_IS_VOID_H
 #define _H_TMP_IS_VOID_H
 
-
-#include "integral_constant.hpp"
+#include "../integral_constant.hpp"
 
 namespace tmp
 {
